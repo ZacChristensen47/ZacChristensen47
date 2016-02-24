@@ -1,0 +1,30 @@
+html, body {
+	font-family: "Times New Roman", serif;
+	margin: 1rem;
+	margin-right: 4rem;
+	width: 90%;
+	height: 100%;
+	background-color: rgb(193,193,162);
+	display; block;
+
+
+	
+
+}
+.container {display: flex;}
+header {
+	text-align: left;
+	color: red;}
+
+h1 {
+	color: blue;}
+h3 {
+	margin: 1rem;
+}
+h4 {margin: 1rem;}
+.profile {border-bottom: 1px 
+solid #000}
+}
+.profile-contents{padding: 30px;
+}
+ul {margin: 2rem;
